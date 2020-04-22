@@ -1,3 +1,5 @@
-# hana-sheikh.github.io
+# hi, i'm hana!
 
-Hi, I'm Hana! Welcome to my website.
+i'm a current student at uc berkeley studying computer science & data science.
+
+
